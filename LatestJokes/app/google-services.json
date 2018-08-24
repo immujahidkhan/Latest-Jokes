@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "805754781012",
+    "firebase_url": "https://allplaystoreapp.firebaseio.com",
+    "project_id": "allplaystoreapp",
+    "storage_bucket": "allplaystoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805754781012:android:7595b1d0d80c7be3",
+        "android_client_info": {
+          "package_name": "com.amt.latestjokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805754781012-c662sqjlkgmr32qo26vrg2e8akrahuid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBao8anstRGtDeBDbJIxjICpEWi3bgtAHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
